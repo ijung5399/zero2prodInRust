@@ -29,6 +29,7 @@ rustup default stable-x86_64-pc-windows-gnu
 
 # cargo-watch
 ```
+cargo install cargo-watch
 cargo watch -x check -x test -x run
 ```
 
